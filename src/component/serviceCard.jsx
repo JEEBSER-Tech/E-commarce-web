@@ -5,7 +5,7 @@ export default function seviceCard(){
     <div className="col-lg-4">
    <h1 className="text-light"> </h1>
    <div class="card">
-  <src="/about.jpg" class="card-img-top" alt="...">
+ <img  src= "/about.jpg" className="card-img-top" />
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
